@@ -1,0 +1,47 @@
+nav {
+  background-color: #0B3B17; height: 25px; width: 1154px;
+}
+a {
+  color: #58FAF4;
+}
+aside {
+  display: inline-block;
+  background-image: url("https://4.bp.blogspot.com/-YAm6w_oEm7s/Vx_MKOci-7I/AAAAAAAAAZM/3oW_ROBiSXAsbBtI0kwoWbniATueFZ7wQCLcB/s1600/bosque%2B3.jpg"); height: 560px; width: 400px;
+}
+main {
+  display: inline-block;
+  background-image: url("https://images.pexels.com/photos/38136/pexels-photo-38136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); height: 560px; width: 750px;
+}
+
+section {
+  background-color: #08088A; height:210px; width: 600px;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+article {
+  background-color: #F781F3; height: 210px; width: 600px;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+footer {
+  background-color: #380B61; height: 25px; width: 1154px;
+}
+.cronicas {
+  margin-left: 200px;
+  color : #00FFFF;
+  align: center;
+  size: 20px;
+  font-family:'Footlight MT'
+}
+.video {
+  margin-left: 100px;
+  width: 200px;
+  color : #2EFE2E;
+  font-size: 30px;
+  font-family:'Footlight MT'
+}
+.youtube {
+  height: 200px;
+  width: 250px;
+  margin-left: 90px;
+}
